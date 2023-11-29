@@ -1,0 +1,17 @@
+C:\Users\Legion\source\repos\CarDoctor\CarDoctor\bin\Debug\net6.0-windows\CarDoctor.exe
+C:\Users\Legion\source\repos\CarDoctor\CarDoctor\bin\Debug\net6.0-windows\CarDoctor.deps.json
+C:\Users\Legion\source\repos\CarDoctor\CarDoctor\bin\Debug\net6.0-windows\CarDoctor.runtimeconfig.json
+C:\Users\Legion\source\repos\CarDoctor\CarDoctor\bin\Debug\net6.0-windows\CarDoctor.dll
+C:\Users\Legion\source\repos\CarDoctor\CarDoctor\bin\Debug\net6.0-windows\CarDoctor.pdb
+C:\Users\Legion\source\repos\CarDoctor\CarDoctor\obj\Debug\net6.0-windows\CarDoctor.csproj.GenerateResource.cache
+C:\Users\Legion\source\repos\CarDoctor\CarDoctor\obj\Debug\net6.0-windows\CarDoctor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\CarDoctor\CarDoctor\obj\Debug\net6.0-windows\CarDoctor.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\CarDoctor\CarDoctor\obj\Debug\net6.0-windows\CarDoctor.AssemblyInfo.cs
+C:\Users\Legion\source\repos\CarDoctor\CarDoctor\obj\Debug\net6.0-windows\CarDoctor.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\CarDoctor\CarDoctor\obj\Debug\net6.0-windows\CarDoctor.dll
+C:\Users\Legion\source\repos\CarDoctor\CarDoctor\obj\Debug\net6.0-windows\refint\CarDoctor.dll
+C:\Users\Legion\source\repos\CarDoctor\CarDoctor\obj\Debug\net6.0-windows\CarDoctor.pdb
+C:\Users\Legion\source\repos\CarDoctor\CarDoctor\obj\Debug\net6.0-windows\CarDoctor.genruntimeconfig.cache
+C:\Users\Legion\source\repos\CarDoctor\CarDoctor\obj\Debug\net6.0-windows\ref\CarDoctor.dll
+C:\Users\Legion\source\repos\CarDoctor\CarDoctor\obj\Debug\net6.0-windows\CarDoctor.Login.resources
+C:\Users\Legion\source\repos\CarDoctor\CarDoctor\obj\Debug\net6.0-windows\CarDoctor.Properties.Resources.resources
